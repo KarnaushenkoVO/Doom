@@ -1,0 +1,6 @@
+vizdoom-crash.log
+trained_model/*
+trained_model
+_vizdoom
+vizdoomgym
+.idea
